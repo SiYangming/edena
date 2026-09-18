@@ -1,6 +1,6 @@
 # Edena V3 (build 131028) 安装与使用备忘
 
-原始发行包：`EdenaV3.131028.tar.gz`（497,784 B）
+上游发行包：`EdenaV3.131028.tar.gz`（497,784 B）
 
 - SHA-256：`4037fce486c9725107b1690fbc67731713eef54e3fa53081865904c783533230`
 - 该压缩包不在代码树中，见 Release `v3.131028` 附件
@@ -10,7 +10,7 @@
 
 本仓库地址：https://github.com/SiYangming/edena
 
-从本仓库 Release 下载原始压缩包：
+从本仓库 Release 下载压缩包：
 
 ```bash
 wget https://github.com/SiYangming/edena/releases/download/v3.131028/EdenaV3.131028.tar.gz
